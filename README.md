@@ -76,7 +76,7 @@ To open the app, simply open the `index.html` file in your browser. No installat
 
 ## 📸 Screenshots
 
-*(Optional: Add screenshots here showing the app interface)*
+![App Screenshot](Screenshot.png)
 
 ---
 
