@@ -1,6 +1,6 @@
-# 📝 To-Do List App — HexSoftwares Task 1
+# 📝 To-Do List App
 
-A responsive and interactive web-based To-Do List application built with **HTML**, **CSS**, and **JavaScript**. This is **Task 1** for the HexSoftwares internship/project, focusing on core front-end skills, DOM manipulation, and browser storage.
+A responsive and interactive web-based To-Do List application built with **HTML**, **CSS**, and **JavaScript**. Focusing on core front-end skills, DOM manipulation, and browser storage.
 
 ---
 
@@ -97,6 +97,5 @@ script.js         # All interactive logic and functionality
 
 ## 🙌 Acknowledgements
 
-- Task 1 for **HexSoftwares** project series.
 - Designed and coded with 💙 by Tshwarelo Lephoto.
 
